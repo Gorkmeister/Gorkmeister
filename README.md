@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leinadher
+- 👋 Hi, I’m [@leinadher](https://leinadher.github.io/portfolio/)
 - 👀 I’m a data scientist with a background in architecture and construction.
 - 🌱 I’m currently developing data science projects in Python and R.
 - 💞️ I’m looking to collaborate on any interesting project that will help me work on my skills and build a project portfolio.
