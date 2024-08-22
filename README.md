@@ -1,6 +1,6 @@
 # Daniel Herrera-Russert
 
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 - 👋 Hi, I’m Daniel!
 - 👀 I’m a data scientist with a background in architecture.
