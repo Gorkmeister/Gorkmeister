@@ -1,4 +1,4 @@
-# Daniel Herrera-Russert
+# Daniel Herrera
 
 - 👋 Hi, I’m Daniel!
 - 👀 I’m a data scientist with a background in architecture.
