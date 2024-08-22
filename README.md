@@ -1,3 +1,7 @@
+# Daniel Herrera-Russert
+
+v
+
 - 👋 Hi, I’m Daniel!
 - 👀 I’m a data scientist with a background in architecture.
 - 🌱 I’m currently developing data science projects in Python and R.
