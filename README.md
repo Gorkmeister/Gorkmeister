@@ -43,7 +43,7 @@
   A small set of apps built in Python and integrated into a UI for personal use in batch photo resizing, metadata management, ASCII art generation, etc.
 
 - ### 🎯 [JobQuest](https://github.com/leinadher/JobQuest)
-  A private data exploration project analyzing my job application process, with the goal of evolving into a visualization web app for deeper insights.
+  A private data exploration project analyzing my job application process, with the goal of evolving into a visualization web app for deeper insights. It is private at the current time.
 
 - ### 📱 [ETL Analysis of the Swiss Smartphone Market](https://github.com/leinadher/CIP02.F24_Project)
   A full ETL process, from the extraction of the raw data via web scraping from different electronics resellers to the analysis and reporting of the transformed and stored data. 
