@@ -8,32 +8,6 @@
 
 ---
 
-## 🛠️ Technical Skills
-
-### Python and Data Science Libraries
-- 🖥️ Environments: `PyCharm`, `Visual Studio`, `Jupyter Notebooks`
-- 📚 Libraries: `NumPy`, `Pandas`, `Selenium`, `MariaDB`, `Tinkr`, `Pillow`, `LlamaIndex`...
-
-### R and RStudio
-- 📈 Skills: Statistical Analysis, Hypothesis Testing, Machine Learning
-- 📦 Packages: `Tidyverse`, `ggplot2`, `Plotly`...
-- 📝 Reporting: `RMarkdown`
-
-### Database Management
-- 🗃️ `MySQL`, managing databases with `MySQL Workbench`
-
-### Business Intelligence
-- 📈 Tools: `Tableau`, `Power BI`, `SAS Viya`
-
-### Additional Skills
-- 💻 Web Development: Familiar with `HTML`, `CSS`, and `Markdown`
-- 🏗️ BIM and CAD: `ArchiCAD`, `Rhinoceros`, `ArchiCAD`
-- 🌎 GIS: `QGIS`
-- 🖼️ Creative Suite: `Adobe Photoshop`, `Adobe InDesign`, `Adobe Premiere`, `Adobe After Effects`...  
-- 🎨 Skilled in production of graphics and architectural drawings. See my latest architecture employer's [website](https://www.scopearch.ch/) and my [Behance](https://www.behance.net/leinadher).
-      
----
-
 ## 🚀 GitHub Projects
 
 - ### 🚗 [Barcelona StreetWatch](https://github.com/leinadher/Barcelona-StreetWatch/tree/main)
